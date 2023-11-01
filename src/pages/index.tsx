@@ -6,7 +6,9 @@ import { use } from "react";
 
 import Image from "next/image";
 
-import { RouterOutputs, api } from "run/utils/api";
+import { api } from "run/utils/api";
+ 
+import type { RouterOutputs } from "run/utils/api";
 import dayjs from "dayjs";
 import relativeTime from "dayjs/plugin/relativeTime";
 
