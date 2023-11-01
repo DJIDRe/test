@@ -1,8 +1,6 @@
 
 import {SignInButton, useUser } from "@clerk/nextjs";
 import Head from "next/head";
-import Link from "next/link";
-import { use } from "react";
 
 import Image from "next/image";
 
