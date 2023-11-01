@@ -1,5 +1,5 @@
 
-import {SignInButton, useUser } from "@clerk/nextjs";
+import { SignInButton, useUser } from "@clerk/nextjs";
 import Head from "next/head";
 
 import Image from "next/image";
